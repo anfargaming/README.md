@@ -72,6 +72,46 @@ Install my-project with npm
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+@@       o o                                           @@
+
+@@       | |                                           @@
+
+@@      _L_L_                                          @@
+
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+
+@@   ❮/ \`-'/ \❯                                       @@
+
+@@     _/`U'\_                                         @@
+
+@@    ( .   . )     .----------------------------.     @@
+
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+
+@@   \ |  ,  | /    '----------------------------'     @@
+
+@@    \|=====|/                                        @@
+
+@@     |_.^._|                                         @@
+
+@@     | |"| |                                         @@
+
+@@     ( ) ( )   Testing leads to failure              @@
+
+@@     |_| |_|   and failure leads to understanding    @@
+
+@@ _.-' _j L_ '-._                                     @@
+
+@@(___.'     '.___)                                    @@
+
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+
+
 <h3 align="left">Support:</h3>
 
 <p><a href="https://ko-fi.com/AnfarMohd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AnfarMohd" /></a></p><br><br>
