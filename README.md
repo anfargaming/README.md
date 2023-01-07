@@ -12,7 +12,9 @@ I'm Anfar Mohd, a freelance developer 👨‍💻 working remotely since 2013 �
 
 😉 I'm currently learning Btech CSE
 
-👯‍♀️ Interest in Hacking
+👯‍♀️ 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
+
+🌝 Interest in Hacking
 
 🌱 I’m currently learning Javascript and C++
 
