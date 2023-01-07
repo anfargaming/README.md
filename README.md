@@ -70,3 +70,6 @@ Install my-project with npm
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
+<h3 align="left">Support:</h3>
+
+<p><a href="https://ko-fi.com/AnfarMohd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AnfarMohd" /></a></p><br><br>
