@@ -125,7 +125,6 @@ Install my-project with npm
 
 
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
   
