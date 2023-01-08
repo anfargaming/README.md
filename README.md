@@ -39,7 +39,7 @@ To deploy this project run
 
 
 ## 🚀 About Me
-**It's me Anfar Mohammed. **
+It's me Anfar Mohammed.
 
 
 
@@ -170,8 +170,10 @@ Install my-project with npm
 
 
 
+<br>
 
-
-<h3 align="left">Support:</h3>
+## Support:
 
 <p><a href="https://ko-fi.com/AnfarMohd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AnfarMohd" /></a></p><br><br>
+
+</br>
