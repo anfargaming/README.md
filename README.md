@@ -10,7 +10,7 @@
 
 I'm Anfar Mohd, a freelance developer 👨‍💻 working remotely since 2013 🚀
 
-👩‍💻 I'm currently working on **Google**
+👩‍💻 I'm currently working on **Own Project**
 
 😉 I'm currently learning **Btech CSE**
 
@@ -39,7 +39,7 @@ To deploy this project run
 
 
 ## 🚀 About Me
-It's me Anfar Mohammed.
+! Anfar Mohammed.
 
 
 
