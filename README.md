@@ -16,7 +16,7 @@ I'm Anfar Mohd, a freelance developer 👨‍💻 working remotely since 2k22 �
 
 👯‍♀️ 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web Development and Android.**
 
-🌝 Interest in **illegal Stuff**
+🌝 Interest in **illegal Stuffs**
 
 🌱 I’m currently learning **Javascript and C++.**
 
