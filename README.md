@@ -8,15 +8,15 @@
 
     
 
-I'm Anfar Mohd, a freelance developer 👨‍💻 working remotely since 2013 🚀
+I'm Anfar Mohd, a freelance developer 👨‍💻 working remotely since 2k22 🚀
 
 👩‍💻 I'm currently working on **Own Project**
 
 😉 I'm currently learning **Btech CSE**
 
-👯‍♀️ 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+👯‍♀️ 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web Development and Android.**
 
-🌝 Interest in **illegal Stuffs**
+🌝 Interest in **illegal Stuff**
 
 🌱 I’m currently learning **Javascript and C++.**
 
