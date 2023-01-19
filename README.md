@@ -104,7 +104,7 @@ Install my-project with npm
 
 ![License: WTF](https://img.shields.io/badge/License-WTF-yellow.svg)
 
-![License: WTF](https://img.shields.io/badge/License-WTF-brightgreen.svg)
+![Ansar: WTF](https://img.shields.io/badge/License-WTF-brightgreen.svg)
 
 ![License](https://img.shields.io/badge/License-WTF-red.svg)
 
