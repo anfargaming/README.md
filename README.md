@@ -159,7 +159,7 @@ Install my-project with npm
 
 # 🔗 Contact me via:
 <a href="https://telegram.dog/anfar_mohammed"><img align="left" alt="Anfar" width="28px" src="https://telegram.org/img/t_logo.png?1" /></a> 
-<a href="mailto:anfarmohd@gmail.com"><img align="left" alt="Anfar" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
+<a href="mailto:"><img align="left" alt="Anfar" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
 
 
 
