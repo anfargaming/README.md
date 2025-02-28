@@ -12,21 +12,15 @@ I'm Anfar Mohd, a freelance developer 👨‍💻 working remotely since 2k20 �
 
 👩‍💻 I'm currently working on **Own Project**
 
-😉 I'm currently learning **Btech CSE**
-
-👯‍♀️ 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Tg Bot Development.**
+😉 **Btech CSE Graduate**
 
 🌝 Interest in **illegal Stuffs**
 
-🌱 I’m currently learning **python.**
-
 💬 Ask me Anything 
-
-📫 How to reach me **anfarmohd@gmail.com**
 
 😄 Pronouns أنفر محمد
 
-**⚡️ Fun fact Time Wasted Sucessfully 😴**
+**⚡️ Fun fact: Time Wasted Sucessfully 😴**
 
 
 ## Deployment
